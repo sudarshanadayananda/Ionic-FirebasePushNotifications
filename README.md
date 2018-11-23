@@ -5,7 +5,7 @@ An [Ionic](https://ionicframework.com/) application
 
     This project was generated with ionic version 3.19.1 and cordova version 8.0.0
 
-> Run npm install in root directory    
+> Run `npm install` in root directory    
 > Deploy Android
       
      Inside root dirctory
